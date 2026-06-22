@@ -1,0 +1,8 @@
+Add digits: https://leetcode.com/submissions/detail/2040827893/
+Pass the pillow: https://leetcode.com/submissions/detail/2039610441/
+Calculate delayed time interval: https://leetcode.com/submissions/detail/2039587700/
+Count of matches in tournament: https://leetcode.com/submissions/detail/2039585079/
+Smallest even multiple: https://leetcode.com/submissions/detail/2039575086/
+Subtract the product and sum of the integers: https://leetcode.com/submissions/detail/2039570908/
+Count the digits that divides the numbe
+r: https://leetcode.com/submissions/detail/2039568732/

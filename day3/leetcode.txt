@@ -1,0 +1,3 @@
+Fibonacci number: https://leetcode.com/submissions/detail/2042008804/
+Palindrome number: https://leetcode.com/submissions/detail/2041973583/
+Reverse integer: https://leetcode.com/submissions/detail/2041940773/

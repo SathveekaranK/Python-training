@@ -1,0 +1,5 @@
+Add digits: https://leetcode.com/submissions/detail/2039551903/
+Nim game: https://leetcode.com/submissions/detail/2039540469/
+Divisor game: https://leetcode.com/submissions/detail/2038625365/
+Minimum cuts to divide the circle: https://leetcode.com/submissions/detail/2038584437/
+A number after double reversal: https://leetcode.com/submissions/detail/2038554574/
