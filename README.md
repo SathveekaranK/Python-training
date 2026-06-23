@@ -1,102 +1,23 @@
 # Python Training
 
-A comprehensive Python learning repository containing fundamental programming concepts and practical exercises organized by difficulty level.
+Daily Python exercises covering fundamentals to advanced concepts.
 
-## Overview
+## Structure
 
-This repository contains Python practice exercises covering core programming topics including variables, data types, control flow, loops, functions, and more. The exercises are organized into three days of progressive learning.
+- **Day 1** - Basics: Variables, data types, conditionals, simple operations
+- **Day 2** - Intermediate: Loops, strings, lists, calculations  
+- **Day 3** - Control Flow: Factorial, palindromes, number analysis
+- **Day 4** - Data Structures: Dictionaries, sets, tuples, list operations
 
-## Directory Structure
+## Running Code
 
+```bash
+python filename.py
 ```
-Python-training/
-├── day1/          - Basics and fundamentals
-├── day2/          - Intermediate concepts
-├── day3/          - Advanced control flow
-└── README.md
-```
-
-## Day 1 - Fundamentals
-
-Introduction to basic Python concepts and operations.
-
-### Topics Covered
-
-- **ASCII.py** - Character to ASCII conversion and vice versa
-- **swap.py** - Swapping variables without using a third variable
-- **implicit&explicit.py** - Data type conversion and casting
-- **neg,pos,zero.py** - Number classification using conditional statements
-- **largeofthree.py** - Finding the largest among three numbers
-- **leapyear.py** - Leap year determination logic
-- **starstep.py** - Pattern printing with stars
-- **findchartype.py** - Character type identification
-- **day1.ipynb** - Interactive notebook with various exercises
-
-### Key Concepts
-
-- Input and output operations
-- Data types (int, string)
-- Conditional statements (if, elif, else)
-- Arithmetic operations
-
-## Day 2 - Intermediate Concepts
-
-Building on fundamentals with loops and data structures.
-
-### Topics Covered
-
-- **average.py** - Calculating average of numbers
-- **simpleinterest.py** - Simple interest calculation
-- **reversenumber.py** - Reversing number digits
-- **naturalrev.py** - Natural number reversal and sequences
-- **multiple_tables.py** - Generating multiplication tables
-- **numberfreq.py** - Counting frequency of digits
-- **vowels.py** - Vowel detection and counting
-- **listremove.py** - List manipulation and element removal
-- **syntax.py** - Python syntax rules and examples
-
-### Key Concepts
-
-- Loops (for and while)
-- String manipulation
-- List operations
-- Arithmetic calculations
-- Frequency counting
-
-## Day 3 - Advanced Control Flow
-
-More complex programming patterns and logic.
-
-### Topics Covered
-
-- **factorial.py** - Computing factorial of numbers
-- **evenorodd.py** - Checking even and odd numbers
-- **divisible_num.py** - Divisibility testing
-- **count_num.py** - Number counting and analysis
-
-### Key Concepts
-
-- Mathematical operations
-- Advanced conditional logic
-- Numerical analysis
-
-## How to Use
-
-1. Navigate to the desired day folder
-2. Open the Python file in your editor or IDE
-3. Run the script:
-   ```
-   python filename.py
-   ```
-4. For interactive notebooks:
-   ```
-   jupyter notebook filename.ipynb
-   ```
 
 ## Requirements
 
 - Python 3.x
-- Jupyter (optional, for .ipynb files)
 
 ## Running Examples
 
