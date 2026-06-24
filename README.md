@@ -8,6 +8,7 @@ Daily Python exercises covering fundamentals to advanced concepts.
 - **Day 2** - Intermediate: Loops, strings, lists, calculations  
 - **Day 3** - Control Flow: Factorial, palindromes, number analysis
 - **Day 4** - Data Structures: Dictionaries, sets, tuples, list operations
+- **Day 5** - Object-oriented examples, classes, file handling, and project-style exercises
 
 ## Running Code
 
