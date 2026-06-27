@@ -1,0 +1,5 @@
+f=open("day6\helo bro.txt","r")
+k=f.read()
+words=k.split()
+print(len(words))
+f.close()

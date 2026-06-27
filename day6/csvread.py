@@ -1,0 +1,18 @@
+import csv
+f=open("casto.csv","r")
+f1=open("dup1.csv","w")
+f2=open("dup2.csv","w")
+f3=open("dup3.csv","w")
+k=csv.writer(f1)
+m=csv.writer(f2)
+n=csv.writer(f3)
+
+k.writerows(csv.reader(f))
+f.seek(0)
+m.writerows(csv.reader(f))
+f.seek(0)
+n.writerows(csv.reader(f))
+f.close()
+f1.close()
+f2.close()
+f3.close()
