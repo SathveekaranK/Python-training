@@ -1,4 +1,6 @@
-n="{[()]}"
+;
+kj jxcv.hj
+'n="{[()]}"
 l=len(n)
 i=0
 flag=True

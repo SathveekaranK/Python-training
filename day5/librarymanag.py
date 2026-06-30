@@ -22,7 +22,7 @@ class Library:
             print("Book not available")
 
 
-lib = Library()   # Object creation
+lib = Library() 
 
 lib.add_book("Python")
 lib.add_book("C Programming")
