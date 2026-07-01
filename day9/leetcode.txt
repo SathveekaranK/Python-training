@@ -1,0 +1,5 @@
+Find numbers with even number of digits - https://leetcode.com/submissions/detail/2051399981/
+Find the duplicate number - https://leetcode.com/submissions/detail/2051366537/
+Sign of product of an array - https://leetcode.com/submissions/detail/2051357490/
+Convert the temperature - https://leetcode.com/submissions/detail/2051346352/
+Length of last word - https://leetcode.com/submissions/detail/2051140109/
