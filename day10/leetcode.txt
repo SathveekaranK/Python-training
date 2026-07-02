@@ -1,1 +1,2 @@
 Minimum cost to move chips to the same position - https://leetcode.com/submissions/detail/2051953736/
+Type of triangle - https://leetcode.com/submissions/detail/2052228197/
